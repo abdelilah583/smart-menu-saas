@@ -1,7 +1,1 @@
-http://localhost:3000/login
 
-http://localhost:3000/menu/chikago
-
-hichamlachgar35@gmail.com
-
-hichamlachgar35@
